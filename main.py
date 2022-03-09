@@ -99,6 +99,10 @@ def options():
         typer.secho("Exited.. until next time :D", fg=typer.colors.MAGENTA)
         raise typer.Exit()
 
+    else:
+        typer.secho("   That's an invalid option.. please try again", fg=typer.colors.BRIGHT_RED)
+        options()
+
 # file format converter command
 @app.command()
 def converto(type: Optional[SupportedFileTypes]= typer.Argument(None, case_sensitive=False), path: Optional[Path] = typer.Argument(None)):
