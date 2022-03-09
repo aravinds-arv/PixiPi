@@ -20,7 +20,9 @@ PixiPi is a simple command line toolkit for images. It was designed to have a mi
 > _Python/619_
 
 ## Link to product walkthrough
-...
+> _Loom Link: [PixiPi - Product Walkthrough](https://www.loom.com/share/8d1368fb1fb0411797efca3a8d902a0b)_
+
+https://user-images.githubusercontent.com/78845005/157484980-26d36c4c-3570-4eff-ac03-9712e4165aaf.mp4
 
 ## How it works?
 - The command line interface is powered by [Typer](https://typer.tiangolo.com) library in python
