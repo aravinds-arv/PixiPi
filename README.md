@@ -7,6 +7,12 @@
 
 > _The swiss army knife for working with images ⚒️_
 
+<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/78845005/157494647-970cbf26-7da7-4d72-84e3-790b3adea656.png" width="700">
+</p>
+<br>
+
 Tired of searching for online tools for tweaking your image as you please? If yes then **PixiPi** might just be the right tool for you 🪄
 
 #### What is it? 💡
